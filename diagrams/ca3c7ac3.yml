@@ -15,6 +15,9 @@ diagramElements:
     fillColour: null
     elementObjectId: a58fdfde
     boundsY: '115'
+  902fb87a: {boundsWidth: '-1', boundsHeight: '-1', textPosition: '0', font: null,
+    textAlignment: '2', boundsX: '634', fontColour: null, fillColour: null, elementObjectId: 31c26d0e,
+    boundsY: '136'}
   27ec5666: {boundsWidth: '-1', boundsHeight: '-1', textPosition: '0', font: null,
     textAlignment: '2', boundsX: '425', fontColour: null, fillColour: null, elementObjectId: bb468853,
     boundsY: '240'}
