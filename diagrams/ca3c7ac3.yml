@@ -3,6 +3,12 @@ diagramElements:
   7c0aaa54: {boundsWidth: '-1', boundsHeight: '-1', textPosition: '0', font: null,
     textAlignment: '2', boundsX: '301', fontColour: null, fillColour: null, elementObjectId: 559cb68b,
     boundsY: '225'}
+  e7b7b225: {boundsWidth: '-1', boundsHeight: '-1', textPosition: '0', font: null,
+    textAlignment: '2', boundsX: '82', fontColour: null, fillColour: null, elementObjectId: 5c267682,
+    boundsY: '92'}
+  5a8bd725: {boundsWidth: '-1', boundsHeight: '-1', textPosition: '0', font: null,
+    textAlignment: '2', boundsX: '253', fontColour: null, fillColour: null, elementObjectId: 8a3a74e9,
+    boundsY: '94'}
   599de18a: {boundsWidth: '-1', boundsHeight: '-1', textPosition: '0', font: null,
     textAlignment: '2', boundsX: '134', fontColour: null, fillColour: null, elementObjectId: da3c241c,
     boundsY: '201'}
